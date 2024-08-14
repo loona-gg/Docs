@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Guide",
+    "link": "/guide/",
+    "activeMatch": "/guide/"
+  },
+  {
+    "text": "Status",
+    "link": "https://status.loona.gg"
+  }
+]
